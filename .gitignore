@@ -1,0 +1,5 @@
+# Raw form responses are never committed (participant privacy)
+data/
+*.csv
+.DS_Store
+__pycache__/
